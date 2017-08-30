@@ -4,8 +4,8 @@ The project creates a portfolio site using Cameron Pittman's data. It also inclu
 Cam's Pizzeria, thats you order a pizza with random ingredients.
 
 To run the site:
-	- go to http://jwoco.github.io/frontend-nanodegree-mobile-portfolio/ 
-	- run the index.html file.
+1 go to https://jackieli311.github.io/jackieli311/mobile-portfolio
+2 run the index.html file.
 
 To view Cam's Pizzeria, click the Cam's Pizzeria link. Select a pizza (Pick a Pizza Now button) and/or pizza size (slider).
 
