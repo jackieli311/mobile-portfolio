@@ -14,7 +14,7 @@ To view Cam's Pizzeria, click the Cam's Pizzeria link. Select a pizza (Pick a Pi
 Changes made to optimize the site:
 
 
-####Part 1: Optimize PageSpeed Insights score for index.html
+#### Part 1: Optimize PageSpeed Insights score for index.html
 
 Initial Pagespeed score is about 30% on mobile and desktop
 
@@ -35,7 +35,7 @@ Follow-up checks on the Pagespeed score indicate the largest gain from 4) Optimi
 
 
 
-####Part 2: Optimize frame rate for views/pizza.html
+#### Part 2: Optimize frame rate for views/pizza.html
 
 I made the following changes to views/js/main.js:
 
